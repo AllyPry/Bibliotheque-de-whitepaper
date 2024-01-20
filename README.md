@@ -7,6 +7,6 @@
 
 **Archive des whitepaper des différentes blockchains:**
 
-[Bitcoin](https://bitcoin.org/bitcoin.pdf)
+**[Bitcoin](https://bitcoin.org/bitcoin.pdf)**
 
 [Ethereum](https://ethereum.org/fr/whitepaper)
