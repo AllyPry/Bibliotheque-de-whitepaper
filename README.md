@@ -5,8 +5,8 @@
 </div>
 
 
-**Archive des whitepaper des différentes blockchains:**
+Archive des whitepaper des différentes blockchains:
 
 **[Bitcoin](https://bitcoin.org/bitcoin.pdf)**
 
-[Ethereum](https://ethereum.org/fr/whitepaper)
+**[Ethereum](https://ethereum.org/fr/whitepaper)** / **[Ethereum yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)**
