@@ -31,4 +31,10 @@ Archive de whitepaper :
 
 **[Celestia](https://arxiv.org/pdf/1905.09274.pdf)**
 
+**[MultiversX](https://files.multiversx.com/multiversx-whitepaper.pdf)**
 
+**[Litecoin](https://naorib.ir/white-paper/litecoin.pdf)**
+
+**[Chainlink](https://research.chain.link/whitepaper-v1.pdf)**
+
+**[Tron](https://tron.network/static/doc/white_paper_v_2_0.pdf)**
