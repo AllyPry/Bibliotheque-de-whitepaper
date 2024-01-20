@@ -6,7 +6,7 @@
 
 ---
 
-Archive des whitepaper des différentes blockchains:
+Archive de whitepaper :
 
 
 **[Bitcoin](https://bitcoin.org/bitcoin.pdf)**
