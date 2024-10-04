@@ -38,3 +38,13 @@ Archive de whitepaper :
 **[Chainlink](https://research.chain.link/whitepaper-v1.pdf)**
 
 **[Tron](https://tron.network/static/doc/white_paper_v_2_0.pdf)**
+
+**Monero:**
+[Zero to Monero: First Edition](https://www.getmonero.org/library/Zero-to-Monero-1-0-0.pdf) / [Zero to Monero: Second Edition](https://web.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
+
+**[TON](https://whitepaper.io/document/0/toncoin-whitepaper)**
+
+**[Aptos](https://aptosfoundation.org/whitepaper/aptos-whitepaper_en.pdf)**
+
+**[Sui](https://docs.sui.io/paper/sui.pdf)**
+
